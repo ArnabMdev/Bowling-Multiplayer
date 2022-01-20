@@ -1,2 +1,2 @@
 # PipesPuzzleAndroid
-A simple connect the pipes puzzle game for Android.
+A muliplayer bowling game for upto 4 people
